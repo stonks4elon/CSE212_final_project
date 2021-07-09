@@ -104,9 +104,9 @@ array, they will encounter an error.
 
 Don't sound so excited.
 
-[**Problem Set 1**](https://github.com/stonks4elon/CSE212_final_project/blob/master/stack_problem_1.py)
-[_Solution 1_](https://github.com/stonks4elon/CSE212_final_project/blob/master/stack_solution_1.py)
+[**Problem Set 1**](https://github.com/stonks4elon/CSE212_final_project/blob/master/Stack/stack_problem_1.py)
+[_Solution 1_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Stack/stack_solution_1.py)
 
-[**Problem Set 2**](https://github.com/stonks4elon/CSE212_final_project/blob/master/stack_problem_2.py)
-[_Solution 2_](https://github.com/stonks4elon/CSE212_final_project/blob/master/stack_solution_2.py)
+[**Problem Set 2**](https://github.com/stonks4elon/CSE212_final_project/blob/master/Stack/stack_problem_2.py)
+[_Solution 2_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Stack/stack_solution_2.py)
 

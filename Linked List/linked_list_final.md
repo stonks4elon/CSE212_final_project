@@ -90,4 +90,5 @@ In the above picture, the red arrows show how the new node was inserted into the
 node and the tail do not point to each other anymore, rather they now provide an address to the new node.
 
 ##Problem Set
-
+[**Problem Set**](https://github.com/stonks4elon/CSE212_final_project/blob/master/Linked%20List/ll_problems.py)
+[_Problem Solution_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Linked%20List/ll_problem_1_solution.py)
