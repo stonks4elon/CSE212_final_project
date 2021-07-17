@@ -81,6 +81,7 @@ it must go, by adding to the top of the stack, and where it must return to, by r
 last known bit of memory, or location to return to in the program.
 
 ##Useful Python Functions
+
 **pop()** – the pop() function is core to stack memory’s function. When this function is called, the last item in the
 array is returned. It is important to remember that it also removes that item from the array.
 
