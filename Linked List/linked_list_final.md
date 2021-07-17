@@ -4,7 +4,7 @@ that a linked list would be very similar because they are both “lists”. That
 similarity that a Python “list” (array) shares with a linked list is the ability to store data in memory. A fundamental
 principle of arrays is that they are contiguous in memory. This is not so with linked lists.
 
-![Linked List Representation](Linked List.png)
+![Linked List Representation](Linked_List.png)
 
 Each item in a linked list can be anywhere in memory. Because of this, each item has “directions” that guide to the next
 item in the list. These directions are contained in each “link” called a **node**. A node contains two parts, the data
@@ -46,11 +46,11 @@ set it to be both the head and the tail:
 1. Set the new_node as the head: _self.head = new_node_
 2. Set the new_node as the tail: _self.tail = new node_
 
-![Creating a New Linked List](create new node.png)
+![Creating a New Linked List](create_new_node.png)
 
 Now what if we want to add another element at the end and create a new tail?
 
-![Create a New Tail](insert new tail.png)
+![Create a New Tail](insert_new_tail.png)
 
 Let us call the new element _new_tail._
 1. We first need to connect new_tail to the current tail: _new_tail.prev = self.tail_
@@ -63,7 +63,7 @@ Let us call the new element _new_tail._
  
 What if we want to insert a new head?
 
-![Insert a New Head](insert new head.png)
+![Insert a New Head](insert_new_head.png)
 
 The idea is very similar to adding a tail. We will call the new element _new_head_:
 1. We first need to connect new_tail to the current tail: _new_head.next = self.head_
@@ -84,7 +84,7 @@ _curr_ refers to the current node:
 4. Now connect the current node to the new_element: _curr.next = new_element_
 
 
-![Insert in Middle](insert new node.png)
+![Insert in Middle](insert_new_node.png)
 
 In the above picture, the red arrows show how the new node was inserted into the linked list before the tail. The 2nd
 node and the tail do not point to each other anymore, rather they now provide an address to the new node.

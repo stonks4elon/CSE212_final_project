@@ -19,7 +19,7 @@ efficient.  The most efficient program would take the same amount of time to run
 for 1 billion pieces of data. This is called **O(1)** efficiency. There are many different levels of efficiency in big O
 notation:
 
-![Big O Graph](bigO graph.png)
+![Big O Graph](bigO_graph.png)
 
 **O(1)**  – Constant Time: The size of data to has no effect on the time it takes to run a program.
 
@@ -41,7 +41,7 @@ dynamic array. This allows the amount of data stored to increase or decrease as 
 In a stack, data is always added or removed from the end. In other words, the last piece of data entered a stack, is
 always the first out **(LIFO)**.
 
-![Stack Visual](push.pop visual.png)
+![Stack Visual](push.pop_visual.png)
 
 ###Efficiency
 A fantastic advantage of a stack is the algorithmic efficiency. Adding to or removing from a stack is always O(1). We
