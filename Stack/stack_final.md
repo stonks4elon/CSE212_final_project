@@ -25,13 +25,13 @@ notation:
 
 **O(log n)**  – Logarithmic Time: The execution time increase decreases with each additional item of data.
 
-**O(n) –** Linear Time: The execution time increases with relation to the size of the data.
+**O(n)** – Linear Time: The execution time increases with relation to the size of the data.
 
-**O(n log n)** -- Logarithmic Time
+**O(n log n)** – Logarithmic Time
 
-**O(n2)** – Polynomial Time: The execution time increases by a fixed power in relation to the input size.
+**O(n^2)** – Polynomial Time: The execution time increases by a fixed power in relation to the input size.
 
-**O(2n)** – Exponential Time: The execution time increases by a power equal to size of the input.
+**O(2^n)** – Exponential Time: The execution time increases by a power equal to size of the input.
 
 ![kcatS Visual](kcatS.png)
 
@@ -65,7 +65,9 @@ method is classified a war crime and punishable by death. – Abraham Lincoln
 _Source: definitely not Wikipedia_
 
 ##Programming Applications
+
 ![Efficient Undo](ctrl+z.png) ![Efficient Copy](ctrl+c.png)
+
 *The above photos are the only two officially licensed keyboards of Stack Overflow*
 
 Stacks are a great tool in programming. They are often used in undo/redo features in programs or other applications
@@ -79,26 +81,27 @@ it must go, by adding to the top of the stack, and where it must return to, by r
 last known bit of memory, or location to return to in the program.
 
 ##Useful Python Functions
-**pop() –** the pop() function is core to stack memory’s function. When this function is called, the last item in the
+**pop()** – the pop() function is core to stack memory’s function. When this function is called, the last item in the
 array is returned. It is important to remember that it also removes that item from the array.
 
 ![pop() Explained in a lot of Words](pop()definition.png)
 
 ![Python pop() IDLE Code](pop()code.png)
 
-**append() –** to add onto the stack, one must use the append() function in python.
+**append()** – to add onto the stack, one must use the append() function in python.
 
 ![append() Explained in a lot Less Words](append()definition.png)
 
 ![Python append() IDLE Code](append()code.png)
 
-**len() –** the len() function takes one parameter, in this case, the array. Since the pop() function removes data from
+**len()** – the len() function takes one parameter, in this case, the array. Since the pop() function removes data from
 an array, it is important to make sure there is data present to being with. If one calls the pop() function on an empty
 array, they will encounter an error.
 
 ![len() Explained in a Novel](len()definition.png)
 
 ![Python len() IDLE Code](len()code.png)
+
 
 ##Problem Sets
 
