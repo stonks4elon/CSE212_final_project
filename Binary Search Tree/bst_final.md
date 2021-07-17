@@ -3,7 +3,6 @@
 When writing code, functions are very helpful as they allow us to reuse code without rewriting each line. A function is
 typically called from outside the scope of the function itself. In _**recursion**_, instead of calling the function from
 outside the function, the function is called by itself. Because of this, it is very easy to create an infinite "loop".
-This is less than desirable as the efficiency of recursion is **O(2^n)**. 
 
 ![GruGruGruGruGruGruetc](gru_infinite_recursion.png)
 
@@ -17,6 +16,8 @@ a simple if/else statement.
 Above we can see that the base case allows an exit from the recursion. Creating a base case that will eventually
 execute is important. It is also possible to have more than one base case. Whether or not this is necessary depends on
 the desired function as well as if at least one of the base cases will execute.
+
+The efficiency of recursion is **O(2^n)**. ADD STUFF HERE YOU CANNOT TURN IT IN WITH INCOMPLETE THINGS.
 
 # Binary Trees
 
