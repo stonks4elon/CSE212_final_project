@@ -43,14 +43,14 @@ always the first out **(LIFO)**.
 
 ![Stack Visual](push.pop_visual.png)
 
-###Efficiency
+### Efficiency
 A fantastic advantage of a stack is the algorithmic efficiency. Adding to or removing from a stack is always O(1). We
 always add to and remove from the end of the dynamic array. The execution time of this does not depend on the size of
 the array because none of the elements must shift. Contrarily, if we added to or removed from the beginning, the
 efficiency would be O(n). This is because each element in the array would be required to shift for each item added or
 removed.
 
-###Real Life Examples of Stacks
+### Real Life Examples of Stacks
 
 ![Gun Tabloid](gun_magazine.png)
 
@@ -64,7 +64,7 @@ method is classified a war crime and punishable by death. – Abraham Lincoln
 
 _Source: definitely not Wikipedia_
 
-##Programming Applications
+## Programming Applications
 
 ![Efficient Undo](ctrl+z.png) ![Efficient Copy](ctrl+c.png)
 
@@ -80,7 +80,7 @@ that it can return to compiling to program in the correct order. Stack memory al
 it must go, by adding to the top of the stack, and where it must return to, by removing the item on top to uncover the
 last known bit of memory, or location to return to in the program.
 
-##Useful Python Functions
+## Useful Python Functions
 
 **pop()** – the pop() function is core to stack memory’s function. When this function is called, the last item in the
 array is returned. It is important to remember that it also removes that item from the array.
@@ -104,7 +104,7 @@ array, they will encounter an error.
 ![Python len() IDLE Code](len()code.png)
 
 
-##Problem Sets
+## Problem Sets
 
 Don't sound so excited.
 
