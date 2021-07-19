@@ -98,4 +98,4 @@ In this problem set there are 3 separate problems to complete. Understand what t
 and then apply your knowledge of linked lists to revise/write the necessary code.
 
 [**Problem Set**](https://github.com/stonks4elon/CSE212_final_project/blob/master/Linked%20List/ll_problems.py)
-[_Problem Solution_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Linked%20List/ll_solution.py)
+[_Solution_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Linked%20List/ll_solution.py)

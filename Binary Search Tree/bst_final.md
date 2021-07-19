@@ -79,3 +79,8 @@ To find specific data, one must traverse the tree in the same way to find the pa
 ![Traverse BST](traversing_bst.png)
 
 ## Problem Set
+
+Below is a final that contains 2 problems to veritfy your understanding as well as a possible solution for you to look
+over.
+[**Problem Set**](https://github.com/stonks4elon/CSE212_final_project/blob/master/Binary%20Search%20Tree/bst_problems.py)
+[_Solution_](https://github.com/stonks4elon/CSE212_final_project/blob/master/Binary%20Search%20Tree/bst_solution.py)
